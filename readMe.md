@@ -1,0 +1,1 @@
+The terminal in VSCode is a built-in interface that allows you to run shell commands directly within the editor. It can host different types of shells, such as Command Prompt, PowerShell, Bash, or others, depending on your operating system and configuration.
